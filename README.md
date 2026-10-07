@@ -4,8 +4,6 @@ A curated collection of **AI-powered marketing, promotional, advertising, and ex
 
 These projects demonstrate hands-on experience in **AI-assisted content creation, marketing communication, creative strategy, visual storytelling, brand positioning, prompt direction, and short-form video production**. The work is presented as a portfolio of assessment projects and is **not affiliated with or officially endorsed by the brands featured**.
 
-📺 **YouTube Portfolio:** [View Channel & Videos](https://studio.youtube.com/channel/UC1frM7lnmwqQ1bKGqr424Vg/videos/short?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D)
-
 ---
 
 ## 📁 Projects
